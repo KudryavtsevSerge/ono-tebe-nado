@@ -32,6 +32,7 @@
 
 .header__links-list-item {
     list-style: circle;
+    white-space: nowrap;
 }
 
 .header__link {
