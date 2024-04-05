@@ -326,7 +326,7 @@
 .footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    padding: 0 50px 88px;
+    margin: 0 50px 88px;
     justify-content: space-between;
     max-height: 92px;
     background-color: #fff;
