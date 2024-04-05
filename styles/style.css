@@ -360,12 +360,12 @@
     width: 48px;
 }
 
+.footer__social-list-item {
+    list-style: none;
+}
+
 .footer__social-link {
     display: block;
     height: 48px;
     width: 48px;
-}
-
-.footer__social-list-item {
-    list-style: none;
 }
